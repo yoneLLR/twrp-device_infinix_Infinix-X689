@@ -1,2 +1,1 @@
-# twrp-device_infinix_Infinix-X689
-Infinix Hot 10s TeamWin &amp; OrangeFox Recovery tree
+# TeamWin Recovery tree for ( _Infinix-X689_ ) variant!
